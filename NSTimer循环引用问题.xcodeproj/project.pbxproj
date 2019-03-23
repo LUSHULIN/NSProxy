@@ -14,7 +14,6 @@
 		846F6E402246621A007EDBC8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 846F6E3E2246621A007EDBC8 /* LaunchScreen.storyboard */; };
 		846F6E432246621A007EDBC8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 846F6E422246621A007EDBC8 /* main.m */; };
 		846F6E4B2246628D007EDBC8 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 846F6E4A2246628D007EDBC8 /* SecondViewController.m */; };
-		84CCACFC22466F4400F27FB3 /* LSLTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 84CCACFB22466F4400F27FB3 /* LSLTimer.m */; };
 		84F6778F2246645F00F59908 /* LSLProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F6778E2246645F00F59908 /* LSLProxy.m */; };
 /* End PBXBuildFile section */
 
@@ -31,8 +30,6 @@
 		846F6E422246621A007EDBC8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		846F6E492246628D007EDBC8 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		846F6E4A2246628D007EDBC8 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
-		84CCACFA22466F4400F27FB3 /* LSLTimer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSLTimer.h; sourceTree = "<group>"; };
-		84CCACFB22466F4400F27FB3 /* LSLTimer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSLTimer.m; sourceTree = "<group>"; };
 		84F6778D2246645F00F59908 /* LSLProxy.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LSLProxy.h; sourceTree = "<group>"; };
 		84F6778E2246645F00F59908 /* LSLProxy.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LSLProxy.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -75,8 +72,6 @@
 				846F6E4A2246628D007EDBC8 /* SecondViewController.m */,
 				84F6778D2246645F00F59908 /* LSLProxy.h */,
 				84F6778E2246645F00F59908 /* LSLProxy.m */,
-				84CCACFA22466F4400F27FB3 /* LSLTimer.h */,
-				84CCACFB22466F4400F27FB3 /* LSLTimer.m */,
 				846F6E3922466218007EDBC8 /* Main.storyboard */,
 				846F6E3C2246621A007EDBC8 /* Assets.xcassets */,
 				846F6E3E2246621A007EDBC8 /* LaunchScreen.storyboard */,
@@ -159,7 +154,6 @@
 				846F6E4B2246628D007EDBC8 /* SecondViewController.m in Sources */,
 				84F6778F2246645F00F59908 /* LSLProxy.m in Sources */,
 				846F6E3822466218007EDBC8 /* ViewController.m in Sources */,
-				84CCACFC22466F4400F27FB3 /* LSLTimer.m in Sources */,
 				846F6E432246621A007EDBC8 /* main.m in Sources */,
 				846F6E3522466218007EDBC8 /* AppDelegate.m in Sources */,
 			);
